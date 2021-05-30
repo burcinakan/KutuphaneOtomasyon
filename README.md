@@ -1,2 +1,2 @@
-# K-t-phaneOtomasyon
+# KütüphaneOtomasyon
 C#
